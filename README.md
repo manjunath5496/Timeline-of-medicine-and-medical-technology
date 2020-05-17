@@ -314,7 +314,6 @@
 <li>1998 &ndash;&nbsp;<a class="mw-redirect" title="Stem cell therapy" href="https://en.wikipedia.org/wiki/Stem_cell_therapy">Stem cell therapy</a>&nbsp;&ndash; James Thomson</li>
 </ul>
 <h2><span id="2000.E2.80.93present"></span><span id="2000&ndash;present" class="mw-headline">2000&ndash;present</span></h2>
-<div class="hatnote navigation-not-searchable">&nbsp;</div>
 <ul>
 <li>2000 26 June &ndash; The&nbsp;<a title="Human Genome Project" href="https://en.wikipedia.org/wiki/Human_Genome_Project">Human Genome Project</a>&nbsp;draft was completed.</li>
 <li>2001 The first&nbsp;<a class="mw-redirect" title="Telesurgery" href="https://en.wikipedia.org/wiki/Telesurgery">telesurgery</a>&nbsp;was performed by&nbsp;<a title="Jacques Marescaux" href="https://en.wikipedia.org/wiki/Jacques_Marescaux">Jacques Marescaux</a>.</li>
